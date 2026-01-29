@@ -10,3 +10,6 @@ Kubernetes in Docker - testing cluster
 
 [Kubectl Quick Reference](https://kubernetes.io/docs/reference/kubectl/quick-reference/)
 
+
+[Cka Certification Guide](https://github.com/techiescamp/cka-certification-guide)
+
