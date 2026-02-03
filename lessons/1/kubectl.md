@@ -45,3 +45,23 @@ kubectl get pods -n my-namespace
 ```bash
 kubectl get pods --all-namespaces
 ```
+
+## Delete pod nginx
+```bash
+kubectl delete pod nginx
+```
+
+## Delete pod nginx in my-namespace
+```bash
+kubectl delete pod nginx -n my-namespace
+```
+
+## Delete Deployment nginx
+```bash
+kubectl delete deployment nginx
+```
+
+## Delete Deployment nginx in my-namespace
+```bash
+kubectl delete deployment nginx -n my-namespace
+```
